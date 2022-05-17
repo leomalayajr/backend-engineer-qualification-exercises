@@ -18,7 +18,8 @@
     "noUnusedParameters": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "lib": ["esnext"]
+    "lib": ["esnext"],
+    "resolveJsonModule": true
   },
   "include": ["./**/*.ts"]
 }
